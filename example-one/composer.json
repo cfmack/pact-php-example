@@ -1,7 +1,7 @@
 {
   "require":
   {
-    "pact-foundation/pact-php": "^4.0"
+    "pact-foundation/pact-php": "dev-master"
   },
   "require-dev":
   {
