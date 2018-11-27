@@ -1,0 +1,10 @@
+{
+  "require":
+  {
+    "pact-foundation/pact-php": "dev-master"
+  },
+  "require-dev":
+  {
+    "phpunit/phpunit": "^7.2"
+  }
+}

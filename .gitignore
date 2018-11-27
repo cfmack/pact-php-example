@@ -255,6 +255,9 @@ vendor/*
 /example-two/vendor/*
 /example-two/composer.lock
 
+/example-three-no-listener/vendor/*
+/example-three-no-listener/composer.lock
+
 /example-api/vendor/*
 /example-guzzle/vendor/*
 /example-api/composer.lock
